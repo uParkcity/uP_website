@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'clash-grotestk';
+					src: url('./../../wp-content/uploads/useanyfont/3239Clash-Grotestk.woff2') format('woff2'),
+						url('./../../wp-content/uploads/useanyfont/3239Clash-Grotestk.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.clash-grotestk{font-family: 'clash-grotestk' !important;}
+
+		
