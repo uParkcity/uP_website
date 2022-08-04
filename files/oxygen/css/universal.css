@@ -4225,3 +4225,8 @@ display:none !important;
 
 .roadmap__years {
 }
+.float__elrond {
+ position:fixed;
+ bottom:1rem;
+ right:1rem;
+}
