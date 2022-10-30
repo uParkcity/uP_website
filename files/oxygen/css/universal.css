@@ -1320,7 +1320,12 @@ flex-direction:unset;
  selector-locked:true;
 }
 .btn--secondary {
- selector-locked:true;
+ selector-locked:false;
+ border-top-color:var(--primary);
+ border-right-color:var(--primary);
+ border-bottom-color:var(--primary);
+ border-left-color:var(--primary);
+ color:var(--primary);
 }
 .btn--white {
  selector-locked:true;
